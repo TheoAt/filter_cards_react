@@ -1,0 +1,12 @@
+.products-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: var(--spacing-large);
+    list-style: none;
+    margin-top: var(--spacing-large);
+    text-align: center;
+}
+
+.product {
+
+}
